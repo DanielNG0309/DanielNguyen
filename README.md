@@ -11,7 +11,7 @@ https://gitfront.io/r/user-5506605/tVYG3QJjZfnF/Python-work/
 ## Works with C
 <img width="300" src="https://user-images.githubusercontent.com/104455551/167977391-032f741f-3803-40a2-ad6b-65dcc4339735.png">
 
-https://gitfront.io/r/user-5506605/2pPqDdfkPDk3/C-work/
+https://gitfront.io/r/user-5506605/W1PZeT38eCsx/C-work/
 ## Works with SQL
 ![image](https://user-images.githubusercontent.com/104455551/171292294-c6367856-994a-4f22-8d96-707faebb4e44.png)
 
