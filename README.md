@@ -19,6 +19,6 @@ https://gitfront.io/r/user-5506605/EbFs9SVTuYEx/MySQL-work/
 ## ENEL 300 Project
 <img width="600" src="https://user-images.githubusercontent.com/104455551/165433379-5ee6878e-f5f2-4336-9072-0402de35547f.png">
 
-https://gitfront.io/r/user-5506605/7rFYW1Ys2on6/ENEL300-project/
+https://github.com/DanielNG0309/ENEL300-project
 ## ENEL 300 Portfolio
-https://gitfront.io/r/user-5506605/wk9mEXKNsSkR/ENEL300-Portfolio/
+https://gitfront.io/r/user-5506605/VPTdpkoYPhJr/ENEL300-Portfolio/
