@@ -1,5 +1,12 @@
 # Daniel Nguyen
 
+## ENEL 300 Project
+<img width="600" src="https://user-images.githubusercontent.com/104455551/165433379-5ee6878e-f5f2-4336-9072-0402de35547f.png">
+
+https://github.com/DanielNG0309/ENEL300-project
+## ENEL 300 Portfolio
+https://gitfront.io/r/user-5506605/VPTdpkoYPhJr/ENEL300-Portfolio/
+
 ## Works with Java
 <img width="600" src="https://user-images.githubusercontent.com/104455551/167976151-19c3d25b-eb18-4f42-a426-3db1177996d7.png">
 
@@ -16,9 +23,4 @@ https://gitfront.io/r/user-5506605/W1PZeT38eCsx/C-work/
 ![image](https://user-images.githubusercontent.com/104455551/171292294-c6367856-994a-4f22-8d96-707faebb4e44.png)
 
 https://gitfront.io/r/user-5506605/EbFs9SVTuYEx/MySQL-work/
-## ENEL 300 Project
-<img width="600" src="https://user-images.githubusercontent.com/104455551/165433379-5ee6878e-f5f2-4336-9072-0402de35547f.png">
 
-https://github.com/DanielNG0309/ENEL300-project
-## ENEL 300 Portfolio
-https://gitfront.io/r/user-5506605/VPTdpkoYPhJr/ENEL300-Portfolio/
